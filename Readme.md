@@ -1,6 +1,4 @@
-# HackerU India Webinar
-
-**About webinar** : Team invites guest speaker for students of "[Master Certificate In Cyber Security Course](https://www.jigsawacademy.com/master-certificate-in-cyber-security-red-team/)". As part of the #CyberSecurityMentor program.
+# Merge Intern Webinar
 
 [![](https://img.shields.io/badge/Mehul-Patel-brightgreen.svg?colorB=00ff00)](https://www.rowdymehul.com)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
