@@ -15,7 +15,7 @@
 
 ![](images/mehul-speaker.jpg)
 
-Special thanks to [Merge Intern ](https://www.linkedin.com/company/mergeintern) for hosting me.
+### Special thanks to [Merge Intern ](https://www.linkedin.com/company/mergeintern) for hosting me.
 
 #### Event type: Public (Registration required)
 
